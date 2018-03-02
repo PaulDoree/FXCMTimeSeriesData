@@ -34,10 +34,13 @@ If you are familiar with Python, we have three scripts that you may use for [Pyt
 
 ## Note:
 
-•	For personal use only
+o	Timestamps are in UTC
 
-•	Timestamps are in UTC
+o	Data points are indicative and based on the lowest spreads available exclusively on Active Trader accounts
 
-•	Data points are indicative and based on the our lowest spreads available exclusively on Active Trade accounts
+o	Daily data is only updated yearly
 
-•	Daily data is only updated yearly
+o	This is for personal use and abides by our [EULA](https://www.fxcm.com/uk/forms/eula/)
+
+o	For more information, you may contact us: premiumdata@fxcm.com 
+
